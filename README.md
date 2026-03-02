@@ -7,7 +7,6 @@
 - 🔭 Interested in **AI-powered applications**, **LLM engineering**, and **full-stack development**
 - 🌱 Currently exploring **RAG**, **Agent frameworks**, and **enterprise AI solutions**
 - 💼 Open to opportunities — feel free to reach out!
-- 📧 Contact: 1228626521@qq.com
 
 ## 🛠️ Tech Stack
 
