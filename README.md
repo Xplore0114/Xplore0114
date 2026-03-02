@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 胡章权 (Hu Zhangquan)
+# 👋 Hi, I'm Kevin
 
 > Full-stack developer passionate about AI applications and modern web development.
 
