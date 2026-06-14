@@ -22,8 +22,6 @@
 - 集成 OAuth2 + JWT 分级权限控制
 - **成果：复杂查询准确率 > 90%，已稳定试运行**
 
-🔗 [py-nl2sql](https://github.com/Xplore-LAB/py-nl2sql)
-
 ### 空分装置智能诊断与优化决策系统
 
 > 当前在研项目 · 独立进行
@@ -70,11 +68,11 @@
 
 | 项目 | 说明 |
 |------|------|
-| [py-nl2sql](https://github.com/Xplore-LAB/py-nl2sql) | 工业数据 NL2SQL 查询引擎，准确率 90%+ |
 | [DataLens](https://github.com/Xplore-LAB/DataLens) | 工业控制性能分析工具，单文件离线运行 |
 | [openai-compatible-proxy](https://github.com/Xplore-LAB/openai-compatible-proxy) | 任意 LLM API → OpenAI 兼容端点 |
 | [llm-gateway-lite](https://github.com/Xplore-LAB/llm-gateway-lite) | 轻量级 LLM 网关，多模型统一路由 |
 | [3DGS-REAL](https://github.com/Xplore-LAB/3DGS-REAL) | Flutter 3D Gaussian Splatting 重建应用 |
+| [word-mail-merge-batch-sender](https://github.com/Xplore-LAB/word-mail-merge-batch-sender) | Word + Outlook VBA 批量邮件工具 |
 
 ## 📫 联系我
 
