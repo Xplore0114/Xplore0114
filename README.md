@@ -1,4 +1,4 @@
-# 胡章权 | AI应用开发工程师
+# Kevin | AI 应用开发工程师
 
 浙江大学硕士 · 控制工程 · 专注大模型应用落地
 
@@ -6,9 +6,9 @@
 
 ## 🔥 核心方向
 
-- 🤖 大语言模型应用开发（NL2SQL、智能诊断、Agent编排）
+- 🤖 大语言模型应用开发（NL2SQL、智能诊断、Agent 编排）
 - 🏭 工业数据智能系统设计与实现
-- 🔗 RAG检索增强与多模态融合
+- 🔗 RAG 检索增强与多模态融合
 
 ## 💼 项目经历
 
@@ -17,21 +17,30 @@
 > 浙江大学-杭氧联合研发项目 · 独立完成
 
 - 设计"意图识别→任务分解→Schema Linking→SQL生成→执行反馈"多阶段推理链路
-- Qwen模型私有化部署 + PostgreSQL工业数据库对接
-- 融合RAG检索增强、多轮对话与图表展示
-- 集成OAuth2 + JWT分级权限控制
+- Qwen 模型私有化部署 + PostgreSQL 工业数据库对接
+- 融合 RAG 检索增强、多轮对话与图表展示
+- 集成 OAuth2 + JWT 分级权限控制
 - **成果：复杂查询准确率 > 90%，已稳定试运行**
 
-🔗 [py-nl2sql](https://github.com/Xplore0114/py-nl2sql)
+🔗 [py-nl2sql](https://github.com/Xplore-LAB/py-nl2sql)
 
 ### 空分装置智能诊断与优化决策系统
 
 > 当前在研项目 · 独立进行
 
-- 基于LangGraph设计节点化Agent流程
+- 基于 LangGraph 设计节点化 Agent 流程
 - 构建"数据质量门禁→特征提取→异常识别→证据链推理→优化建议"分层诊断链路
-- 引入领域知识库RAG检索 + 机理约束推理
+- 引入领域知识库 RAG 检索 + 机理约束推理
 - 支持标准化诊断输出（异常、证据、风险、建议）
+
+### DataLens — 工业控制性能分析工具
+
+> 单文件离线运行 · CSV 导入即分析
+
+- 支持脱硝优化、空分节能等工业场景的数据可视化与性能评估
+- 零依赖开箱即用，浏览器直接运行
+
+🔗 [DataLens](https://github.com/Xplore-LAB/DataLens)
 
 ## 🛠️ 技术栈
 
@@ -50,27 +59,30 @@
 **前端**
 
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xplore0114&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xplore0114&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xplore-LAB&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xplore-LAB&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔗 相关项目
 
 | 项目 | 说明 |
 |------|------|
-| [llm-gateway-lite](https://github.com/Xplore0114/llm-gateway-lite) | 轻量级LLM网关，支持多模型统一接入 |
-| [openai-compatible-proxy](https://github.com/Xplore0114/openai-compatible-proxy) | OpenAI兼容代理，快速接入各类LLM |
-| [Xplore0114.github.io](https://github.com/Xplore0114/Xplore0114.github.io) | 个人技术博客 |
+| [py-nl2sql](https://github.com/Xplore-LAB/py-nl2sql) | 工业数据 NL2SQL 查询引擎，准确率 90%+ |
+| [DataLens](https://github.com/Xplore-LAB/DataLens) | 工业控制性能分析工具，单文件离线运行 |
+| [openai-compatible-proxy](https://github.com/Xplore-LAB/openai-compatible-proxy) | 任意 LLM API → OpenAI 兼容端点 |
+| [llm-gateway-lite](https://github.com/Xplore-LAB/llm-gateway-lite) | 轻量级 LLM 网关，多模型统一路由 |
+| [3DGS-REAL](https://github.com/Xplore-LAB/3DGS-REAL) | Flutter 3D Gaussian Splatting 重建应用 |
 
 ## 📫 联系我
 
-- 📧 zju_hzq@163.com
+- 🐙 [GitHub](https://github.com/Xplore-LAB)
 - 📍 浙江杭州
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xplore0114&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Xplore-LAB&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
